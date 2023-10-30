@@ -1,0 +1,64 @@
+h1 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    margin-left: 55px;
+}
+.create {
+    margin-top: 5px;
+    /*padding-top: auto;*/
+    padding: auto;
+    margin: auto;
+    margin-left: 55px;
+}
+
+.sec {
+    display:inline-block;
+    font-size: large;
+    margin-left: 55px;
+}
+/*#speaker1 {
+    display: inline-block;*/
+    
+
+.tim, .spec {
+    display: inline-block;
+}
+.spec {
+    text-align: right;
+    width: 6%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: large;
+}
+.howw {
+    display: block;
+    padding: auto;
+    margin: auto;
+    margin-left: 55px;
+    font-size: large;
+    word-spacing: 20%;
+    line-height: 30px;
+    font-family: monospace;
+}
+.timm, .spek {
+    display: inline-block;
+}
+.spek {
+    text-align: right;
+    width: 6%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: large;
+    
+}
+.them {
+    display: block;
+    padding: auto;
+    margin: auto;
+    margin-left: 55px;
+    font-size: large;
+    line-height: 30px;
+    font-family: monospace;
+}
+.vid {
+    align-content: first baseline;
+    margin-left: 55px;
+}
